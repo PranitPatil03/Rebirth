@@ -1,0 +1,52 @@
+body{
+    background:#ffffff;
+    box-sizing: border-box;
+    overflow:scroll;
+}
+
+.container{
+    margin-top: -15px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size:25px;
+    margin-left: 15px;
+}
+
+.navbar ul{
+    display: flex;
+}
+
+.navbar ul li{
+    display: flex;
+    padding :20px;
+    margin-bottom: 15px;
+}
+
+.content{
+    margin-top:15px;
+    margin-left: 15px;
+    font-size:50px;
+}
+
+.description{
+    margin:0;
+}
+
+.sub{
+    font-size:15px;
+}
+
+.photo img{
+    width:100%;
+    margin-top:30px;
+}
+
+
+
